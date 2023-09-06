@@ -1,4 +1,4 @@
-# Hi there, I'm Stephanie
+# Hi there, I'm Stephanie 👋
 <img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=stephaniennesochi&show_icons=true&theme=radical">
 <img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniennesochi&layout=compact">
 
