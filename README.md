@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React, Nodejs and Django**
 
-- 👨‍💻 All of my projects are available at [github.com/stephaniennesochi](github.com/stephaniennesochi)
+- 👨‍💻 All of my projects are available at [github.com/stephaniennesochi](github.com/Stephaniennesochi)
 
-- 📝 I regularly write articles on [medium.com/@stephaniennesochi](medium.com/@stephaniennesochi)
+- 📝 I regularly write articles on [medium.com/@stephaniennesochi](medium.com/@Stephaniennesochi)
 
 - 💬 Ask me about **HTML, CSS, bootstrap and JavaScript.**
 
