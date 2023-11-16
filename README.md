@@ -3,7 +3,6 @@
 
 <img width= 1000% height=350px src = "https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephaniennesochi&label=Profile%20views&color=0e75b6&style=flat" alt="stephaniennesochi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephaniennesochi" alt="stephaniennesochi" /></a> </p>
 
