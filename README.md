@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Stephanie Nnesochi</h1>
-<h3 align="center">A Passionate Full Stack Developer from Enugu</h3>
+<h3 align="center">A Data Analyst from Enugu</h3>
 
 <img width= 1000% height=350px src = "https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephaniennesochi" alt="stephaniennesochi" /></a> </p>
 
-- 🌱 I’m currently learning **React, Nodejs and Django**
+- 🌱 I’m currently learning **AWS, GCP and Azure**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/Stephaniennesochi](https://www.github.com/Stephaniennesochi)
 
 - 📝 I regularly write articles on [https://www.medium.com/@Stephaniennesochi](https://www.medium.com/@Stephaniennesochi)
 
-- 💬 Ask me about **HTML, CSS, bootstrap and JavaScript.**
+- 💬 Ask me about **Excel, Powerbi, SQL and Python.**
 
 - 📫 How to reach me **stephaniennesochi@gmail.com**
 
