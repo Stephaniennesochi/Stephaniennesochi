@@ -28,5 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Stephaniennesochi&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stephaniennesochi's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephaniennesochi&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Stephaniennesochi's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Stephaniennesochi&theme=dark&hide_border=true" alt="Stephaniennesochi's GitHub Stats" />
 </p>
