@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
-<img width= 100% height= 550px src = "https://miro.medium.com/v2/resize:fit:1400/1*Q3-zrTao_bitZECvOKVyow.png">
+<img width= 100% height= 300px src = "https://www.omnis.net/wp-content/uploads/2019/11/Omnis_Bar-Pie_Chart1.png">
+
+<h4 align="left">I am a detail-oriented data analyst with hands-on experience in collecting, cleaning, and analyzing datasets to uncover meaningful insights that support better business decisions. I enjoy transforming raw data into clear, actionable reports and dashboards that help teams understand trends and make informed choices.<br><br>I work confidently with tools like Excel, SQL, Python, and data visualization platforms to identify patterns, solve problems, and improve workflow efficiency. I also collaborate effectively with cross-functional teams, ensuring data accuracy and presenting findings in a simple, clear, and impactful way.<br><br>I’m passionate about continuous learning and excited to apply data-driven thinking to real-world challenges.</h4>
 
 - 🔭 I'm currently working on **A Store Sales Analysis**
 
