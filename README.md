@@ -5,7 +5,7 @@
 
 <h4 align="left">I am a detail-oriented data analyst with hands-on experience in collecting, cleaning, and analyzing datasets to uncover meaningful insights that support better business decisions. I enjoy transforming raw data into clear, actionable reports and dashboards that help teams understand trends and make informed choices.<br><br>I work confidently with tools like Excel, SQL, Python, and data visualization platforms to identify patterns, solve problems, and improve workflow efficiency. I also collaborate effectively with cross-functional teams, ensuring data accuracy and presenting findings in a simple, clear, and impactful way.<br><br>I’m passionate about continuous learning and excited to apply data-driven thinking to real-world challenges.</h4>
 
-- 🔭 I'm currently working on **A Store Sales Analysis**
+- 🔭 I'm currently working on **A Customer Churn Analysis**
 
 - 🌱 I'm currently learning **AWS (Amazon Web Service), GCP (Google Cloud Platform) and Azure**
 
