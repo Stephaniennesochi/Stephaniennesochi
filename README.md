@@ -14,7 +14,6 @@
 - 💬 Ask me about **SQL, Python, Power BI, Excel**
 
 - 📫 How to reach me **stephaniennesochi@gmail.com**
-**+2348082354610**
 
 - ⚡ Fun fact **I'm a strategic problem-solver**
 
